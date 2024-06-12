@@ -1,0 +1,2 @@
+../Drivers/Src/stm32f446xx_crc.c:13:6:ConfigureDataRegister	24	static
+../Drivers/Src/stm32f446xx_crc.c:29:6:ConfigureIndDataRegisterControlReg	24	static
